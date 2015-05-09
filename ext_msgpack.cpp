@@ -2,7 +2,7 @@
    +----------------------------------------------------------------------+
    | HipHop for PHP                                                       |
    +----------------------------------------------------------------------+
-   | Copyright (c) 2014-2014 Baidu, Inc.                                  |
+   | Copyright (c) 2014-2015 Baidu, Inc.                                  |
    +----------------------------------------------------------------------+
    | This source file is subject to version 3.01 of the PHP license,      |
    | that is bundled with this package in the file LICENSE, and is        |
@@ -14,10 +14,9 @@
    +----------------------------------------------------------------------+
 */
 
-#include "hphp/runtime/base/base-includes.h"
 #include "msgpack-variant.h"
 
-#define MSGPACK_HHVM_VERSION "0.0.1"
+#define MSGPACK_HHVM_VERSION "0.1.0"
 
 namespace HPHP {
 
